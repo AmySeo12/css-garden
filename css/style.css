@@ -1,0 +1,65 @@
+body {
+	background: url(http://4.bp.blogspot.com/-Lg41PZKOgDc/VC9GVpCAG7I/AAAAAAAAVyk/19TsSCY0Skg/s1600/433100-1.jpg);
+	font-size: 16px;
+	font-family: cursive;
+	color: black;}
+h1 {
+	font-size: 40px;
+	font-family: large bold italic;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+h2 {
+	text-align: right;
+}
+.parte{
+	width: 50%
+}
+#derecha {
+	float: left;
+	width: 200px;
+	padding:10px; 
+}
+.menu {
+	color: black;
+	width: 25%;
+	float: right;
+}
+.texto {
+	width: 58%;
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+	background-color: white; opacity: 0.5;
+}
+.text1 {
+	width: 40%;
+	float: left;
+	background-color: white; 
+	opacity: 0.5;
+	margin-right: 10px;
+}
+.text2{
+	width: 59%;
+	float: left;
+	background-color: white;
+	opacity: 0.5;
+}
+.izquierda {
+	width: 50%;
+	background-color: white;
+	opacity: 0.5;
+	padding:10px;
+	margin:40px;
+	float:left;
+}
+.text4 {
+	width: 40%;
+	float: right;
+	background-color: white;
+	opacity: 0.5;
+	margin-top: 10px;
+	margin-right: 10px;
+}
